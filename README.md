@@ -48,4 +48,4 @@ python keras.py --mode predict --image test.jpg
 
 ## Examples
 
-![](./hupu/images/73.jpg) ![](./face/hupu/73.jpg) 7.3503695
+![](./process.jpg) 
