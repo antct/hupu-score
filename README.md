@@ -1,6 +1,6 @@
 # hupu-score
 
-> 虎扑爆照区自动评分
+> HUPU auto-score network based on ResNet-50
 
 ## Dataset
 
@@ -45,7 +45,3 @@ python keras.py --mode train
 ```bash
 python keras.py --mode predict --image test.jpg
 ```
-
-## Examples
-
-![](./process.jpg) 
